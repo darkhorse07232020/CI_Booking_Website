@@ -1,0 +1,55 @@
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+} body { top: 0px !important; }
+.goog-tooltip {
+  display: none !important;
+}
+.goog-tooltip:hover {
+  display: none !important;
+}
+.goog-text-highlight {
+  background-color: transparent !important;
+  border: none !important; 
+  box-shadow: none !important;
+}
+
+input, textarea { 
+    outline: none !important;
+}
+
+input:focus, textarea:focus { 
+    outline: none !important;
+    border-color: red !important;
+    box-shadow: 0 0 3px red !important;
+    caret-color: red !important;
+}
+
+@media only screen and (max-width:1000px){ 
+    .logo-img {
+        display: none !important;
+    }
+}
+div#countries_msdd{
+  width: 130px !important;
+  color: rgb(0, 0, 0) !important;
+  margin-top: 25px !important; 
+}
+.dd .ddTitle{
+  background: #fff !important; 
+}
+.dd .ddChild li.selected {
+  background-color: #fff !important;
+}
+@media (max-width: 992px) {
+  nav.navbar.bootsnav.no-full .navbar-collapse {
+      max-height: 623px;
+      /* height: 396px !important; */
+      overflow-y: auto !important;
+  }
+  .flex_col4 {
+    margin-top : 0px !important;
+  }
+}
+
+.ribbon-box{position:relative}
+.ribbon-box .ribbon{position:relative;clear:both;padding:5px 12px;margin-bottom:15px;-webkit-box-shadow:2px 5px 10px rgba(50,58,70,.15);box-shadow:2px 5px 10px rgba(50,58,70,.15);color:#fff;font-size:13px;font-weight:600}.ribbon-box .ribbon:before{content:" ";border-style:solid;border-width:10px;display:block;position:absolute;bottom:-10px;left:0;margin-bottom:-10px;z-index:-1}.ribbon-box .ribbon.float-left{margin-left:-30px;border-radius:0 3px 3px 0}.ribbon-box .ribbon.float-right{margin-right:-30px;border-radius:3px 0 0 3px}.ribbon-box .ribbon.float-right:before{right:0}.ribbon-box .ribbon.float-center span{margin:0 auto 20px auto}.ribbon-box .ribbon-content{clear:both}.ribbon-box .ribbon-primary{background:#6658dd}.ribbon-box .ribbon-primary:before{border-color:#3f2ed4 transparent transparent}.ribbon-box .ribbon-secondary{background:#6c757d}.ribbon-box .ribbon-secondary:before{border-color:#545b62 transparent transparent}.ribbon-box .ribbon-success{background:#1abc9c}.ribbon-box .ribbon-success:before{border-color:#148f77 transparent transparent}.ribbon-box .ribbon-info{background:#4fc6e1}.ribbon-box .ribbon-info:before{border-color:#25b7d8 transparent transparent}.ribbon-box .ribbon-warning{background:#f7b84b}.ribbon-box .ribbon-warning:before{border-color:#f5a51a transparent transparent}.ribbon-box .ribbon-danger{background:#f1556c}.ribbon-box .ribbon-danger:before{border-color:#ed2643 transparent transparent}.ribbon-box .ribbon-light{background:#f1f5f7}.ribbon-box .ribbon-light:before{border-color:#d1dee4 transparent transparent}.ribbon-box .ribbon-dark{background:#323a46}.ribbon-box .ribbon-dark:before{border-color:#1d2128 transparent transparent}.ribbon-box .ribbon-pink{background:#f672a7}.ribbon-box .ribbon-pink:before{border-color:#f34289 transparent transparent}.ribbon-box .ribbon-blue{background:#4a81d4}.ribbon-box .ribbon-blue:before{border-color:#2d67be transparent transparent}.ribbon-box .ribbon-two{position:absolute;left:-5px;top:-5px;z-index:1;overflow:hidden;width:75px;height:75px;text-align:right}.ribbon-box .ribbon-two span{font-size:13px;color:#fff;text-align:center;line-height:20px;transform:rotate(-45deg);-webkit-transform:rotate(-45deg);width:100px;display:block;-webkit-box-shadow:0 0 8px 0 rgba(0,0,0,.06),0 1px 0 0 rgba(0,0,0,.02);box-shadow:0 0 8px 0 rgba(0,0,0,.06),0 1px 0 0 rgba(0,0,0,.02);position:absolute;top:19px;left:-21px;font-weight:600}.ribbon-box .ribbon-two span:before{content:"";position:absolute;left:0;top:100%;z-index:-1;border-right:3px solid transparent;border-bottom:3px solid transparent}.ribbon-box .ribbon-two span:after{content:"";position:absolute;right:0;top:100%;z-index:-1;border-left:3px solid transparent;border-bottom:3px solid transparent}.ribbon-box .ribbon-two-primary span{background:#6658dd}.ribbon-box .ribbon-two-primary span:before{border-left:3px solid #3827c1;border-top:3px solid #3827c1}.ribbon-box .ribbon-two-primary span:after{border-right:3px solid #3827c1;border-top:3px solid #3827c1}.ribbon-box .ribbon-two-secondary span{background:#6c757d}.ribbon-box .ribbon-two-secondary span:before{border-left:3px solid #494f54;border-top:3px solid #494f54}.ribbon-box .ribbon-two-secondary span:after{border-right:3px solid #494f54;border-top:3px solid #494f54}.ribbon-box .ribbon-two-success span{background:#1abc9c}.ribbon-box .ribbon-two-success span:before{border-left:3px solid #117964;border-top:3px solid #117964}.ribbon-box .ribbon-two-success span:after{border-right:3px solid #117964;border-top:3px solid #117964}.ribbon-box .ribbon-two-info span{background:#4fc6e1}.ribbon-box .ribbon-two-info span:before{border-left:3px solid #21a5c2;border-top:3px solid #21a5c2}.ribbon-box .ribbon-two-info span:after{border-right:3px solid #21a5c2;border-top:3px solid #21a5c2}.ribbon-box .ribbon-two-warning span{background:#f7b84b}.ribbon-box .ribbon-two-warning span:before{border-left:3px solid #eb990a;border-top:3px solid #eb990a}.ribbon-box .ribbon-two-warning span:after{border-right:3px solid #eb990a;border-top:3px solid #eb990a}.ribbon-box .ribbon-two-danger span{background:#f1556c}.ribbon-box .ribbon-two-danger span:before{border-left:3px solid #e71332;border-top:3px solid #e71332}.ribbon-box .ribbon-two-danger span:after{border-right:3px solid #e71332;border-top:3px solid #e71332}.ribbon-box .ribbon-two-light span{background:#f1f5f7}.ribbon-box .ribbon-two-light span:before{border-left:3px solid #c0d2db;border-top:3px solid #c0d2db}.ribbon-box .ribbon-two-light span:after{border-right:3px solid #c0d2db;border-top:3px solid #c0d2db}.ribbon-box .ribbon-two-dark span{background:#323a46}.ribbon-box .ribbon-two-dark span:before{border-left:3px solid #121519;border-top:3px solid #121519}.ribbon-box .ribbon-two-dark span:after{border-right:3px solid #121519;border-top:3px solid #121519}.ribbon-box .ribbon-two-pink span{background:#f672a7}.ribbon-box .ribbon-two-pink span:before{border-left:3px solid #f12a7a;border-top:3px solid #f12a7a}.ribbon-box .ribbon-two-pink span:after{border-right:3px solid #f12a7a;border-top:3px solid #f12a7a}.ribbon-box .ribbon-two-blue span{background:#4a81d4}.ribbon-box .ribbon-two-blue span:before{border-left:3px solid #285ca9;border-top:3px solid #285ca9}.ribbon-box .ribbon-two-blue span:after{border-right:3px solid #285ca9;border-top:3px solid #285ca9}

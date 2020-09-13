@@ -1,0 +1,367 @@
+
+
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <title>Dateabus.com</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport'/>
+
+    <!-- Bootstrap CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+    
+
+<!-- Bootsnav CSS -->
+<link href="css/bootsnav.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+
+<!-- Owl stylesheet -->
+<link rel="stylesheet" href="css/owl.carousel.css">
+<link rel="stylesheet" href="css/owl.theme.css">
+
+<!-- Lightbox Theme -->
+<link href="css/lightbox.css" rel="stylesheet">
+
+<!-- Main css -->
+<link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&display=swap" rel="stylesheet">
+
+    
+</head>
+<body class="search-page sidebar-collapse home-page">
+
+  <style type="text/css">
+    @media only screen and (max-width:1000px){ 
+        .logo-img {
+            display: none !important;
+        }
+    }
+  </style>
+    
+
+
+    <!-- PRE LOADER -->
+  <div class="page-loader">
+    <div class="loader"> 
+      <span class="dot dot_1"></span> 
+      <span class="dot dot_2"></span> 
+      <span class="dot dot_3"></span> 
+      <span class="dot dot_4"></span> 
+    </div>
+  </div>
+  <!-- Navigation Section -->
+  <nav class="navbar navbar-default navbar-fixed white no-background bootsnav">
+      <!-- Start Top Search -->
+      <div class="top-search">
+          <div class="container">
+              <div class="input-group">
+                  <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                  <input type="text" class="form-control" placeholder="Search">
+                  <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+              </div>
+          </div>
+      </div>
+      <!-- End Top Search -->
+      <div class="container">            
+        <!-- Start Atribute Navigation -->
+        <div class="attr-nav">
+            <ul>
+                <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+            </ul>
+        </div>
+        <!-- End Atribute Navigation -->
+
+        <!-- Start Header Navigation -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                <i class="fa fa-bars"></i>
+            </button>
+            <!-- logo Text Here -->
+            <a class="navbar-brand" href="#brand" style="">
+                <img src="logo/Original1.png" class="logo-img logo-display" alt="" style="width: 180px; margin-left: -40px;">
+                <img src="logo/Original2.jpg" class="logo-img logo-scrolled" alt="" style="width: 180px; margin-left: -40px;">
+            </a>
+        </div>
+        <!-- End Header Navigation -->
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-menu">
+          <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+            <li><a href="#home" style="font-weight: 400 !important;">Home</a></li>
+            <li><a href="#pricing" style="font-weight: 400 !important;">Events 2020</a></li>
+            <li><a href="#contact" style="font-weight: 400 !important;">Contact</a></li>            
+            <li><a href="#about" style="font-weight: 400 !important;">About Us</a></li>            
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div>
+  </nav>
+
+
+  <!-- Hero Section -->
+  <section id="home" class="hero hero_full_screen hero_parallax text-center  parallax-window" data-stellar-background-ratio="0.5">
+    <div class="bg-overlay opacity-6">
+    </div>
+    <div class="hero_parallax_inner">
+      <img src="logo/Original1.png" class="home-img logo-display" alt="" style="width: 60%;">
+    </div>
+  </section>
+
+  <!-- Price Section -->
+  <section id="pricing" class="pricing pb80 pt80"  style="padding-top: 200px;padding-bottom: 250px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="section-title mb25">
+            <h2  style="letter-spacing: -1px;">EVENTS 2020</h2>
+            <p>Dating for everybody...</p>
+            <hr>
+          </div>
+        </div>
+      </div>
+      <div class="row content-row">
+        <div class="col-md-4 col-sm-4">
+            <div class="pricing-item featured-first" style="height: 530px; margin-right: -35px; margin-top: 40px">
+                <h3 class="plan-name" style="letter-spacing: -1px;">18-35</h3>
+                <span style="letter-spacing: -1px;">Danmark, Norge, Sverige, USA, Storbritanien</span>
+                <div class="price" style="letter-spacing: -1px;">
+                  <span class="number"><sup>$</sup>75</span> / 15.6.2020-20.6.2020</div>
+                <ul class="list-group" style="letter-spacing: -1px;">
+                    <li>Trip to a famous disco in the center,</li>
+                    <li>with the possibility of saving with a </li>
+                    <li>professional love coatch with more</li>
+                    <li>3,000 Entries per Month</li>
+                    <li>than 12 years of experience, in</li>
+                    <li>relationships and coacthing.</li>
+                </ul>
+                
+                <button class="btn aisle-btn">SMS:1220</button>
+                <span class="message" style="color: #000; margin-top: 25px;">Send en SMS til 1515, og få information om din næste date</span>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <div class="pricing-item featured-first" style="height: 580px;">
+                <h3 class="plan-name" style="letter-spacing: -1px;">35-55</h3>
+                <span style="letter-spacing: -1px;">Danmark, Norge, Sverige, USA, Storbritanien</span>
+                <div class="price" style="letter-spacing: -1px;">
+                  <span class="number"><sup>$</sup>120</span> / 15.6.2020-20.6.2020</div>
+                <ul class="list-group" style="letter-spacing: -1px;">
+                    <li>Trip to one of the city's best restaurants,</li>
+                    <li>3 course menu is included, as well as</li>
+                    <li>the option of sparring with a professional</li>
+                    <li>I love coatch with more than 12 years of</li>
+                    <li>experience, in relationships and coacthing</li>
+                </ul>
+                
+                <button class="btn aisle-btn">SMS:1220</button>
+                <span class="message" style="color: #000; margin-top: 25px;">Send en SMS til 1515, og få information om din næste date</span>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <div class="pricing-item featured-first" style="height: 530px;  margin-left: -15px;  margin-top: 40px">
+                <h3 class="plan-name" style="letter-spacing: -1px;">55+</h3>
+                <span style="letter-spacing: -1px;">Danmark, Norge, Sverige, USA, Storbritanien</span>
+                <div class="price" style="letter-spacing: -1px;">
+                  <span class="number"><sup>$</sup>150</span> / 15.6.2020-20.6.2020</div>
+                <ul class="list-group" style="letter-spacing: -1px;">
+                    <li>Trip to a famous inn, with accommodation,</li>
+                    <li>With the possibility of sparring with a professional</li>
+                    <li>love coatch with more than 12 years of experience,</li>
+                    <li>in relationships and coacthing.</li>
+                </ul>
+                
+                <button class="btn aisle-btn">SMS:1220</button>
+                <span class="message" style="color: #000; margin-top: 25px;">Send en SMS til 1515, og få information om din næste date</span>
+            </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact  Section -->
+  <section id="contact" class="pb80 pt80 " style="padding-top: 250px;padding-bottom: 250px;">
+    <div class="container">
+      <!-- section title -->
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="section-title mb25">
+            <h2 style="letter-spacing: -1px;">Contact</h2>
+            <p>How we live, work & dream.</p>
+            <hr>
+          </div>
+        </div>
+      </div>
+      <!--end  section title -->
+      <div class="col-md-4 col-sm-4 col-xs-12">
+        <div class="contact-info">
+          <ul class="list-unstyled">
+            <li>
+              <h2><i class="fa fa-home"></i> ADDRESS</h2>
+              <p style="letter-spacing: -1px;">Frederiksborgvej98 4 th 2400</p><br/>(Denmark)
+            </li>
+            <li>
+              <h2><i class="fa fa-phone"></i> PHONE</h2>
+              <p style="letter-spacing: -1px;">+45 31390202</p>
+            </li>
+            <li>
+              <h2><i class="fa fa-envelope"></i> EMAIL</h2>
+              <p style="letter-spacing: -1px;"><a href="mailto:info@myemail.com">info@dateabus.com</a></p>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="contact-form">
+          <div class="alert"></div>
+          <form id="contact-form" action="#" method="post">
+            <div class="row">
+              <div class="col-md-6 col-sm-6 col-xs-6">
+                <label class="sr-only" for="name">Name:</label> 
+                <input id="name" name="name" placeholder="Name *" required="" type="text">
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-6">
+                <label class="sr-only" for="email">Email:</label>
+                <input id="email" name="email" placeholder="Email *" required="" type="email">  
+              </div>
+            </div>
+            <div class="row text-right">
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <label class="sr-only" for="message">Message:</label>
+                <textarea id="message" name="message" placeholder="Message *" required></textarea>
+                <button type="submit" class="btn aisle-btn" name="send">SEND</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="pb80 pt80" style="padding-top: 150px; padding-bottom: 400px;">
+    <div class="container">
+      <div class="row">
+        <div class="section-title text-center">
+          <h2 style="letter-spacing: -1px;">ABOUT DATE A BUS</h2>
+          <p style="letter-spacing: -1px; text-align: left;" >Date A Bus is a one-man owned business that, with its new developed concept, focuses on dating and stands out from the current swipe method that is widely used on various dating apps.<br/>
+            With our professional and carefully selected matchmaker, and coatches, we make sure the right people are put together right from the start.<br/><br/>
+
+Dating is for us more than a picture ... This is our absolute philosophy.<br/><br/>
+
+            /dateabus.com</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+
+  
+
+    <!-- SCRIPTS -->
+  <script  src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/bootsnav.js"></script>
+  <script src="js/owl.carousel.js"></script>
+  <script  src="js/counterup.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+  <script>
+   $('.counter').counterUp({
+        delay: 10,
+        time: 1000
+    });
+  </script>
+  <script>
+  $("#clients").owlCarousel({
+     
+          navigation : true, // Show next and prev buttons
+          slideSpeed : 400,
+          paginationSpeed : 400,
+          singleItem:true,
+          autoPlay: true
+          // "singleItem:true" is a shortcut for:
+          // items : 1, 
+          // itemsDesktop : false,
+          // itemsDesktopSmall : false,
+          // itemsTablet: false,
+          // itemsMobile : false
+     
+      });
+  </script>
+  <script src="js/lightbox-plus-jquery.min.js"></script>
+  <script src="js/jquery.mixitup.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script type="text/javascript">
+  $(window).load(function(){
+    $(".page-loader").fadeOut("slow"); 
+  });
+    $.stellar();
+  </script>
+  <script type="text/javascript">
+      // Instantiate MixItUp:
+    $('#grid').mixItUp();
+  </script>
+  
+  <script type="text/javascript">
+    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true,
+      'fadeDuration':900,
+      'imageFadeDuration':600,
+      'positionFromTop':150,
+      'disableScrolling':true
+    })
+    </script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        // Add smooth scrolling to all links in navbar + footer link
+        $(".navbar a, footer a[href='#myPage'], .overlay-detail a").on('click', function(event) {
+
+        // Prevent default anchor click behavior
+        event.preventDefault();
+
+        // Store hash
+        var hash = this.hash;
+
+        // Using jQuery's animate() method to add smooth page scroll
+        // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+        $('html, body').animate({
+          scrollTop: $(hash).offset().top
+        }, 900, function(){
+
+          // Add hash (#) to URL when done scrolling (default click behavior)
+          window.location.hash = hash;
+          });
+        });
+      })
+      $(function(){
+
+      // Instantiate MixItUp:
+
+      $('#Container').mixItUp();
+
+    });
+</script>
+<script type="text/javascript">
+  window.onscroll = function() {myFunction()};
+
+  function myFunction() {
+    if (document.documentElement.scrollTop < 900) {
+      $('.logo-img').css('display', 'none');
+    } else {
+      $('.logo-scrolled').css('display', 'block');
+    }
+  }
+
+  $('button.aisle-btn').on("click", function (e) {
+    $('span.message').css('display', 'none');
+    $(e.target).closest('.pricing-item').find('span.message').css('display', 'block');
+  });
+</script>
+
+
+</body>
+
+</html>
+
